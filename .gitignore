@@ -2,8 +2,8 @@
 *.suo
 
 #ignore minified files
-*.min.js
-*.min.css
+#*.min.js
+#*.min.css
 
 #Ignore any leftover PrepOpsApp files
 PrepOpsApp
